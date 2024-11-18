@@ -18,10 +18,7 @@ The RAG system has shown to improve the quality of generated responses by integr
 
 ## Files and Structure
 
-- `README.md`: Provides an overview of the project, objectives, requirements, usage instructions, and results.
 - `rag_using_llama3_langchain_and_chromadb.ipynb`: The main Jupyter notebook with code for setting up and running the RAG system. This includes configurations for LLaMA-3, LangChain, and ChromaDB, along with examples and evaluations.
-- `data/`: Directory for storing documents and data used for retrieval.
-- `retrieval_results.csv`: Stores retrieval output and metrics to evaluate retrieval accuracy and quality.
 
 ## Requirements
 
